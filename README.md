@@ -8,8 +8,8 @@
 <img width="300" alt="Screen Shot 2022-01-21 at 2 21 51 PM" src="https://user-images.githubusercontent.com/87446059/150591012-436eba06-8dd8-43b4-bbc6-67484a9ad046.png">
 </p>
 
-<header> Advanced React and Next.js Best Practices: </header>
-    - We'll use Next JS pre-rendering with Static Generation
+##Advanced React and Next.js Best Practices: 
+    #I use Next JS pre-rendering with Static Generation
     - You'll also learn how to create a modern UI using Tailwind CSS
     - You'll learn GraphQL and GraphCMS
     - GraphQL is querying language, and we'll cover creating schemas, models and finally retrieving data using GraphQL Queries
