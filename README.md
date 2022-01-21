@@ -10,7 +10,7 @@
 
 ## Tools React and Next.js : 
 - I use Next JS pre-rendering with Static Generation 
-- You'll also learn how to create a modern UI using Tailwind CSS
-- You'll learn GraphQL and GraphCMS
-- GraphQL is querying language, and we'll cover creating schemas, models and finally retrieving data using GraphQL Queries
+- I also learn how to create a modern UI using Tailwind CSS
+- I learn GraphQL and GraphCMS
+- GraphQL is querying language, and I created schemas, models and finally retrieving data using GraphQL Queries
 - GraphCMS is the best GraphQL Content Management System (CMS)
